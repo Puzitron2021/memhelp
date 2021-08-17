@@ -1,0 +1,13 @@
+version: "3"
+services:
+  react:
+    container_name: grocery-list_react-app
+    build: .
+    environment:
+      - REACT_APP_API_IP=localhost
+    image: react:latest
+    ports:
+      - '3000:3000'
+      - '3500:3500'
+    volumes:
+      - "../../:/home/project/react-app"

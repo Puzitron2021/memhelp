@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Погонять в танчики"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Заплатить за импотеку"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Попиздеть про люникс"
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "item": "Погонять ещё в танчики"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Попиздеть про Кубернетис"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "Посидеть в офисе"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "Попиздеть про Aktif Directar"
+    },
+    {
+      "id": 8,
+      "checked": true,
+      "item": "Прикупить пушечку для flammpanzer'a"
+    },
+    {
+      "id": 9,
+      "checked": true,
+      "item": "Погонять в танчики"
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "item": "Поужинать и приготовиться к новому плодотворному дню"
+    },
+    {
+      "id": 11,
+      "checked": true,
+      "item": "Погонять ещё немного в танчики"
+    },
+    {
+      "id": 12,
+      "checked": true,
+      "item": "Шиндошз говно!"
+    },
+    {
+      "id": 13,
+      "checked": false,
+      "item": "Включить своп (может быть)"
+    },
+    {
+      "id": 14,
+      "checked": true,
+      "item": "Поиграть в танчики"
+    },
+    {
+      "id": 15,
+      "checked": false,
+      "item": "Сложить логи в /etc"
+    },
+    {
+      "id": 16,
+      "checked": false,
+      "item": "Пропылесосить локаль на балконе"
+    }
+  ]
+}
